@@ -1,12 +1,10 @@
 ### 👋🏼 Hello! I am Clare!
 
-* 🌎 [Website](https://clarmso.ca)
-* 👩🏻‍💻 [LinkedIn](https://www.linkedin.com/in/clarmso/)
 * 😄 Pronouns: She/Hers
 * 💼 What I do at work: Test Automation and Infrastructure
-* 💬 Techs I've used: Cypress, Selenium, Github Actions, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Linux, MacOS
+* 💻 Techs I've used: Cypress, Selenium, Github Actions, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Elastic & Kibana, Linux, MacOS
 * 💪🏼 Bragging rights: I broke software using a donut 🍩 emoji
-
+* ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/clarmso/) | [Twitter](https://twitter.com/clarmso/) | [Instagram](https://www.instagram.com/clarmso/)
 
 <!--
 **clarmso/clarmso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
