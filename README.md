@@ -2,7 +2,7 @@
 * 💼 What I do at work: Test Automation and Infrastructure
 * 💻 Techs I've used: Cypress, Selenium, Github Actions, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Elastic & Kibana, Linux, MacOS
 * 💪🏼 Bragging rights: I broke software using a donut 🍩 emoji
-* 😄 Non work activities: Piano 🎹, figure skating ⛸️, cross stitch 🪡
+* 😄 Non work activities: Piano 🎹, figure skating ⛸️, learning needlework 🪡
 
 <!--
 **clarmso/clarmso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
