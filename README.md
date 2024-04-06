@@ -1,7 +1,7 @@
 ### 👋🏼 Hello! I am Clare!
-* 💼 What I do at work: Test Automation and Infrastructure
-* 💻 Techs I've used: Cypress, Selenium, Github Actions, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Elastic & Kibana, Linux, MacOS
-* 💪🏼 Bragging rights: I broke software using a donut 🍩 emoji
+* 💼 Currently working on: Test Automation, Tooling and Infrastructure
+* 💻 Techs used: Cypress, Selenium, Github Actions, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Elastic & Kibana, Linux, MacOS
+* 💪🏼 Bragging rights: I broke software using a donut 🍩 emoji (No production system has been harmed)
 * 😄 Non work activities: Piano 🎹, figure skating ⛸️, learning needlework 🪡
 
 <!--
