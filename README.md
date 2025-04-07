@@ -1,7 +1,7 @@
 ### 👋🏼 Hello! I am Clare!
 * Currently working on: Test Automation, Tooling and Infrastructure for Firefox iOS
 * Techs used: Swift, Cypress, Selenium, Github Actions, Bitrise, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Elastic & Kibana, Linux, MacOS
-* Bragging rights: I broke software using a donut 🍩 emoji. The bug convinced the team to fuzz input fields. (No production system has been harmed.)
+* Bragging rights: I convinced one of my past teams to fuzz input fields by a donut emoji. (No production system has been harmed.)
 
 <!--
 **clarmso/clarmso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
