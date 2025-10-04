@@ -1,7 +1,9 @@
 ### 👋🏼 Hello! I am Clare!
 * Currently working on: Test Automation, Tooling and Infrastructure for Firefox iOS
-* Techs used: Swift, Cypress, Selenium, Github Actions, Bitrise, CircleCI, Docker, Javascript, Node/NPM, React.js, Vue.js, Python, pytest, Elastic & Kibana, Linux, MacOS
-* Bragging rights: I convinced one of my past teams to fuzz input fields by a donut emoji. (No production system has been harmed.)
+* Current techs: Github Actions, Bitrise, Swift, Python, pytest, Google Cloud, macOS, Linux
+* Past techs: Cypress, Selenium, CircleCI, Docker, Javascript, Node/NPM, React.js, Elastic & Kibana
+* Work-related bragging rights: I convinced one of my past teams to fuzz the input fields by a donut emoji on a staging environment. (No production system has been harmed.)
+* Non work-related bragging rights: I was a piano accompanist and a skilled chorister.
 
 <!--
 **clarmso/clarmso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
