@@ -1,7 +1,7 @@
 ### 👋🏼 Hello! I am Clare!
 * Currently working on: Tooling and Infrastructure, Test Automation for Firefox iOS
 * Current tech stack: Github Actions, Bitrise, Swift, Python, pytest, Google Cloud, macOS, Linux
-* AI: ChatGPT for writing, Github Co-pilot for coding
+* AI: ChatGPT, Claude Code and Github Co-pilot
 * Past tech stack: Cypress, Selenium, CircleCI, Docker, Javascript, Node/NPM, React.js, Elastic & Kibana
 * Work-related bragging rights: I convinced one of my past teams to fuzz the input fields by a donut emoji on a staging environment. (No production system has been harmed.)
 * Non work-related bragging rights: I was a piano accompanist and a skilled chorister.
